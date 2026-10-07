@@ -1,0 +1,40 @@
+project:
+  name: AI-Based eGramSwaraj Accounting Performance Analysis
+  optimization: Particle Swarm Optimization
+  dataset: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_accounting_20_21.csv
+pso:
+  algorithm: Binary Particle Swarm Optimization
+  particles: 20
+  iterations: 25
+  inertia_weight: 0.729
+  cognitive_coefficient: 1.49445
+  social_coefficient: 1.49445
+  best_cv_fitness: 0.9672560226483627
+  best_particle:
+  - 1
+  - 0
+  - 1
+  - 1
+features:
+  all:
+  - onboard_egspi_normalized
+  - pv_initiated_normalized
+  - pv_approved_normalized
+  - year_closed_normalized
+  selected:
+  - onboard_egspi_normalized
+  - pv_approved_normalized
+  - year_closed_normalized
+performance_score:
+  weights:
+    onboard_egspi: 0.2
+    pv_initiated: 0.25
+    pv_approved: 0.3
+    year_closed: 0.25
+  thresholds:
+    low_medium: 4.204420232779449
+    medium_high: 11.196011695278271
+best_model:
+  name: PSO KNN
+  test_accuracy: 0.9794520547945206
+output_prefix: pso_

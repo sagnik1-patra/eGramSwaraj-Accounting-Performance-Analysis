@@ -1,0 +1,34 @@
+project:
+  name: AI-Based eGramSwaraj Accounting Performance Analysis
+  optimization: Artificial Immune System
+  dataset: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_accounting_20_21.csv
+ais:
+  algorithm: Clonal Selection Algorithm
+  population_size: 20
+  generations: 25
+  clone_factor: 5
+  elite_size: 5
+  mutation_rate: 0.2
+  best_cv_fitness: 0.9672560226483627
+  best_antibody:
+  - 1
+  - 0
+  - 1
+  - 1
+features:
+  all:
+  - onboard_egspi_normalized
+  - pv_initiated_normalized
+  - pv_approved_normalized
+  - year_closed_normalized
+  selected:
+  - onboard_egspi_normalized
+  - pv_approved_normalized
+  - year_closed_normalized
+performance_thresholds:
+  low_medium: 4.204420232779449
+  medium_high: 11.196011695278271
+best_model:
+  name: AIS KNN
+  test_accuracy: 0.9794520547945206
+output_prefix: ais_

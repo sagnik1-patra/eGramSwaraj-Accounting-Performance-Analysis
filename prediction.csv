@@ -1,0 +1,147 @@
+State,District,Onboard_eGSPI,PV_Initiated,PV_Approved,Year_Closed,Performance_Score,Actual_Class,Predicted_Class,Actual_Encoded,Predicted_Encoded,Correct_Prediction,Probability_Low,Probability_Medium,Probability_High
+bihar,bhagalpur,242,0,0,242,5.8632,Medium,Medium,1,1,True,8.38,90.78,0.84
+tamil nadu,tirupathur,208,107,101,208,5.1673,Medium,Medium,1,1,True,17.95,81.64,0.41
+uttarakhand,champawat,312,558,553,313,8.2576,Medium,Medium,1,1,True,0.74,92.52,6.74
+nagaland,phek,3,0,0,0,0.0323,Low,Low,0,0,True,98.75,1.25,0.0
+rajasthan,banswara,410,4189,3953,408,14.9101,High,High,2,2,True,0.0,4.8,95.2
+uttar pradesh,pratapgarh,1203,12094,10562,1206,43.0405,High,High,2,2,True,0.0,0.0,100.0
+jharkhand,east singhbum,231,1555,1498,231,7.4754,Medium,Medium,1,1,True,3.27,93.52,3.21
+karnataka,bengaluru rural,102,2550,2318,102,5.4556,Medium,Medium,1,1,True,37.94,61.72,0.34
+haryana,yamunanagar,489,1685,1580,472,13.6242,High,High,2,2,True,0.0,11.68,88.32
+gujarat,morbi,350,0,0,350,8.4799,Medium,Medium,1,1,True,0.41,91.2,8.4
+madhya pradesh,dhar,761,10813,10305,760,31.41,High,High,2,2,True,0.0,0.0,100.0
+madhya pradesh,gwalior,256,1926,1848,255,8.5107,Medium,Medium,1,1,True,1.18,91.23,7.58
+odisha,kalahandi,310,1690,1510,310,9.4704,Medium,Medium,1,1,True,0.3,83.23,16.47
+meghalaya,east garo hills,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+punjab,patiala,996,24,22,1031,24.631,High,High,2,2,True,0.0,0.0,100.0
+meghalaya,ri bhoi,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+uttar pradesh,hapur,273,3933,3191,273,10.9499,Medium,Medium,1,1,True,0.12,60.68,39.2
+meghalaya,south west khasi hills,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+andhra pradesh,vizianagaram,0,0,0,895,12.0555,High,High,2,2,True,0.01,30.65,69.34
+west bengal,purulia,170,952,912,170,5.2654,Medium,Medium,1,1,True,24.1,75.51,0.39
+bihar,sheikhpura,54,0,0,54,1.3083,Low,Low,0,0,True,94.77,5.23,0.0
+rajasthan,alwar,568,1016,978,575,15.0829,High,High,2,2,True,0.0,3.4,96.6
+telangana,wanaparthy,0,0,0,167,2.2495,Low,Low,0,0,True,89.16,10.83,0.0
+jharkhand,dumka,206,3153,2993,206,8.7693,Medium,Medium,1,1,True,1.73,89.63,8.64
+meghalaya,east khasi hills,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+andhra pradesh,visakhapatanam,0,0,0,856,11.5302,High,High,2,2,True,0.03,41.27,58.7
+tripura,north tripura,129,1620,1429,129,4.991,Medium,Medium,1,1,True,38.08,61.68,0.24
+tamil nadu,pudukkottai,497,14,14,497,12.0587,High,High,2,2,True,0.0,31.91,68.09
+telangana,vikarabad,0,0,0,201,2.7074,Low,Low,0,0,True,83.73,16.26,0.01
+punjab,amritsar,847,2037,1944,859,23.1312,High,High,2,2,True,0.0,0.0,100.0
+maharashtra,nashik,1376,655,616,1385,34.2403,High,High,2,2,True,0.0,0.0,100.0
+assam,barpeta,129,0,0,129,3.1255,Low,Low,0,0,True,68.79,31.19,0.03
+chhattisgarh,janjgir-champa,657,4767,4470,657,21.592,High,High,2,2,True,0.0,0.01,99.99
+karnataka,chikkamagaluru,225,3188,2865,226,9.1729,Medium,Medium,1,1,True,1.02,86.93,12.05
+madhya pradesh,mandsaur,440,13735,13344,439,27.3188,High,High,2,2,True,0.0,0.0,100.0
+gujarat,surat,547,0,0,547,13.2529,High,High,2,2,True,0.0,14.09,85.91
+west bengal,nadia,185,318,297,177,4.7522,Medium,Medium,1,1,True,28.25,71.51,0.24
+west bengal,jhargram,79,136,131,79,2.0783,Low,Low,0,0,True,88.92,11.07,0.0
+bihar,sheohar,53,0,0,52,1.2706,Low,Low,0,0,True,94.97,5.03,0.0
+madhya pradesh,harda,209,4177,4012,208,10.0883,Medium,Medium,1,1,True,0.59,77.31,22.1
+uttar pradesh,aligarh,881,18047,16102,881,42.255,High,High,2,2,True,0.0,0.0,100.0
+assam,cachar,161,0,0,162,3.9142,Low,Medium,0,1,False,46.93,52.99,0.09
+west bengal,medinipur east,223,1065,1025,222,6.6754,Medium,Medium,1,1,True,6.13,92.25,1.62
+odisha,puri,268,1289,1175,268,8.004,Medium,Medium,1,1,True,1.48,93.31,5.21
+nagaland,kiphire,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+himachal pradesh,solan,240,0,0,213,5.4511,Medium,Medium,1,1,True,12.35,87.09,0.56
+maharashtra,aurangabad,821,132,108,864,20.6168,High,High,2,2,True,0.0,0.03,99.97
+rajasthan,ajmer,318,226,226,324,8.0642,Medium,Medium,1,1,True,0.78,93.35,5.87
+uttar pradesh,balrampur,801,10629,9562,799,31.7497,High,High,2,2,True,0.0,0.0,100.0
+bihar,rohtas,245,0,0,238,5.8416,Medium,Medium,1,1,True,8.48,90.7,0.82
+kerala,malappuram,94,0,0,0,1.0113,Low,Low,0,0,True,95.57,4.43,0.0
+uttar pradesh,sant kabeer nagar,761,4958,3940,754,23.7514,High,High,2,2,True,0.0,0.0,100.0
+uttar pradesh,moradabad,646,13588,12473,643,31.5977,High,High,2,2,True,0.0,0.0,100.0
+tamil nadu,theni,129,2,2,130,3.1414,Low,Low,0,0,True,68.45,31.52,0.03
+west bengal,dinajpur uttar,98,873,817,98,3.4124,Low,Low,0,0,True,72.17,27.8,0.03
+karnataka,ballari,235,2355,2168,235,8.4687,Medium,Medium,1,1,True,1.55,91.3,7.16
+gujarat,sabar kantha,459,0,0,459,11.1208,Medium,Medium,1,1,True,0.01,51.62,48.37
+haryana,faridabad,113,464,430,99,3.098,Low,Low,0,0,True,74.24,25.74,0.02
+karnataka,raichur,178,7037,6188,178,12.4029,High,High,2,2,True,0.08,34.71,65.21
+karnataka,kodagu,103,1598,1441,103,4.3576,Medium,Low,1,0,False,56.18,43.72,0.1
+meghalaya,east jaintia hills,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+telangana,kamareddy,0,0,0,208,2.8017,Low,Low,0,0,True,82.37,17.62,0.01
+jammu and kashmir,baramulla,0,0,0,402,5.4149,Medium,Medium,1,1,True,24.18,75.33,0.48
+uttar pradesh,mirzapur,809,15053,13586,809,37.1497,High,High,2,2,True,0.0,0.0,100.0
+gujarat,kheda,518,0,0,517,12.5368,High,High,2,2,True,0.0,23.53,76.47
+assam,chirang,1,0,0,1,0.0242,Low,Low,0,0,True,98.77,1.23,0.0
+madhya pradesh,sheopur,225,3738,3646,225,9.9986,Medium,Medium,1,1,True,0.53,78.26,21.21
+arunachal pradesh,tawang,6,0,0,0,0.0646,Low,Low,0,0,True,98.7,1.3,0.0
+maharashtra,osmanabad,541,74,74,622,14.2899,High,High,2,2,True,0.0,6.18,93.82
+maharashtra,palghar,469,372,340,473,11.8536,High,High,2,2,True,0.0,36.46,63.53
+karnataka,dharwad,144,3323,2967,144,7.3405,Medium,Medium,1,1,True,9.23,88.34,2.43
+rajasthan,udaipur,594,2687,2558,638,18.2093,High,High,2,2,True,0.0,0.25,99.75
+chhattisgarh,bemetara,429,4416,4236,429,15.7164,High,High,2,2,True,0.0,2.47,97.53
+arunachal pradesh,kamle,27,0,0,0,0.2905,Low,Low,0,0,True,98.25,1.75,0.0
+madhya pradesh,betul,556,7885,7688,554,23.0341,High,High,2,2,True,0.0,0.01,99.99
+telangana,narayanpet,0,0,0,136,1.8319,Low,Low,0,0,True,92.66,7.34,0.0
+andhra pradesh,kurnool,0,0,0,544,7.3276,Medium,Medium,1,1,True,4.19,92.6,3.21
+west bengal,howrah,157,1982,1929,157,6.212,Medium,Medium,1,1,True,16.15,82.94,0.91
+uttar pradesh,banda,469,5493,5092,469,17.8604,High,High,2,2,True,0.0,0.41,99.59
+assam,dima hasao,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+tamil nadu,kanchipuram,274,0,0,274,6.6386,Medium,Medium,1,1,True,3.56,94.71,1.73
+uttar pradesh,mahoba,273,3787,3351,273,10.9827,Medium,Medium,1,1,True,0.12,60.27,39.61
+tamil nadu,kanniyakumari,95,4,4,95,2.3066,Low,Low,0,0,True,85.09,14.9,0.01
+maharashtra,sindhudurg,424,8,6,429,10.3486,Medium,Medium,1,1,True,0.04,67.76,32.21
+punjab,tarn taran,553,509,472,565,14.1621,High,High,2,2,True,0.0,7.08,92.92
+rajasthan,bundi,184,1918,1808,184,6.7476,Medium,Medium,1,1,True,8.85,89.56,1.59
+chhattisgarh,kanker,454,364,340,454,11.432,High,High,2,2,True,0.01,45.4,54.6
+tamil nadu,perambalur,121,28,28,121,2.9662,Low,Low,0,0,True,72.94,27.04,0.02
+assam,sivasagar,82,0,0,82,1.9867,Low,Low,0,0,True,89.19,10.8,0.0
+maharashtra,nanded,1270,4,4,1309,31.3002,High,High,2,2,True,0.0,0.0,100.0
+haryana,hisar,302,3516,3249,283,11.2127,High,Medium,2,1,False,0.07,55.24,44.68
+assam,karimganj,95,0,0,95,2.3017,Low,Low,0,0,True,85.14,14.86,0.01
+chhattisgarh,rajnandgaon,813,8126,7646,813,29.3881,High,High,2,2,True,0.0,0.0,100.0
+karnataka,koppal,153,5726,5260,153,10.4464,Medium,Medium,1,1,True,0.83,72.97,26.2
+rajasthan,bhilwara,132,0,0,371,6.4174,Medium,Medium,1,1,True,6.86,91.74,1.4
+jharkhand,latehar,115,2241,2149,115,5.4868,Medium,Medium,1,1,True,34.03,65.6,0.37
+odisha,deogarh,70,209,195,70,1.9441,Low,Low,0,0,True,90.71,9.29,0.0
+tamil nadu,tenkasi,219,0,0,221,5.3329,Medium,Medium,1,1,True,14.56,84.95,0.49
+andaman and nicobar islands,south andamans,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+tamil nadu,tuticorin,403,22,22,403,9.7911,Medium,Medium,1,1,True,0.08,77.41,22.52
+odisha,gajapati,149,520,477,149,4.2216,Medium,Medium,1,1,True,45.27,54.62,0.12
+karnataka,kolar,156,8207,7676,156,13.5345,High,High,2,2,True,0.02,17.94,82.04
+arunachal pradesh,west kameng,20,0,0,0,0.2152,Low,Low,0,0,True,98.41,1.59,0.0
+rajasthan,bharatpur,400,8980,8722,399,20.5763,High,High,2,2,True,0.0,0.05,99.95
+jharkhand,koderma,106,729,715,106,3.4578,Low,Low,0,0,True,69.63,30.34,0.03
+himachal pradesh,kinnaur,73,0,0,65,1.6609,Low,Low,0,0,True,92.23,7.77,0.0
+andhra pradesh,west godavari,3,0,0,637,8.6126,Medium,Medium,1,1,True,1.07,89.29,9.64
+haryana,gurugram,207,1236,1211,162,5.9165,Medium,Medium,1,1,True,14.02,85.23,0.76
+maharashtra,satara,1432,7,6,1494,35.538,High,High,2,2,True,0.0,0.0,100.0
+bihar,saharsa,151,0,0,149,3.6315,Low,Low,0,0,True,54.97,44.97,0.06
+uttar pradesh,bulandshahr,951,9775,8038,951,33.8912,High,High,2,2,True,0.0,0.0,100.0
+chhattisgarh,korba,412,1497,1242,412,11.6514,High,High,2,2,True,0.01,42.19,57.8
+punjab,bathinda,318,41,31,318,7.7482,Medium,Medium,1,1,True,1.0,94.44,4.56
+assam,kamrup,135,0,0,138,3.3112,Low,Low,0,0,True,64.11,35.86,0.04
+jammu and kashmir,samba,0,0,0,101,1.3605,Low,Low,0,0,True,95.34,4.66,0.0
+chhattisgarh,gariyaband,333,2098,1817,336,10.5011,Medium,Medium,1,1,True,0.09,67.55,32.36
+manipur,kamjong,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+odisha,baleshwar,361,2369,2250,361,11.5861,High,High,2,2,True,0.02,45.34,54.64
+bihar,pashchim champaran,314,0,0,301,7.4326,Medium,Medium,1,1,True,1.39,95.12,3.49
+punjab,rupnagar,610,78,75,611,14.8869,High,High,2,2,True,0.0,3.77,96.23
+uttar pradesh,deoria,1189,10189,9047,1185,40.5283,High,High,2,2,True,0.0,0.0,100.0
+tamil nadu,chengalpattu,358,288,266,358,9.0137,Medium,Medium,1,1,True,0.25,87.16,12.59
+punjab,pathankot,372,0,0,414,9.5787,Medium,Medium,1,1,True,0.11,80.4,19.49
+uttar pradesh,ballia,945,23000,20199,940,49.2528,High,High,2,2,True,0.0,0.0,100.0
+madhya pradesh,indore,312,4132,3994,311,12.5471,High,High,2,2,True,0.01,28.71,71.28
+madhya pradesh,mandla,485,7236,6970,485,20.4922,High,High,2,2,True,0.0,0.05,99.95
+madhya pradesh,jabalpur,514,5691,5493,515,19.3496,High,High,2,2,True,0.0,0.11,99.89
+meghalaya,west khasi hills,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+mizoram,kolasib,56,0,0,56,1.3568,Low,Low,0,0,True,94.48,5.51,0.0
+nagaland,kohima,1,0,0,0,0.0108,Low,Low,0,0,True,98.79,1.21,0.0
+maharashtra,gadchiroli,455,240,238,456,11.332,High,High,2,2,True,0.01,47.4,52.59
+nagaland,longleng,0,0,0,0,0.0,Low,Low,0,0,True,98.8,1.2,0.0
+tamil nadu,ariyalur,201,10,9,201,4.8815,Medium,Medium,1,1,True,22.4,77.3,0.3
+maharashtra,chandrapur,781,159,158,824,19.697,High,High,2,2,True,0.0,0.06,99.94
+gujarat,ahmadabad,458,0,0,464,11.1774,Medium,Medium,1,1,True,0.01,50.37,49.62
+jharkhand,gumla,159,1189,1169,159,5.3052,Medium,Medium,1,1,True,25.99,73.63,0.38
+manipur,jiribam,6,27,27,6,0.1787,Low,Low,0,0,True,98.55,1.45,0.0
+madhya pradesh,ashoknagar,332,3075,2907,329,11.6799,High,High,2,2,True,0.03,44.43,55.54
+himachal pradesh,kangra,807,0,0,752,18.8114,High,High,2,2,True,0.0,0.12,99.88
+jammu and kashmir,kishtwar,0,0,0,133,1.7915,Low,Low,0,0,True,92.94,7.06,0.0
+chhattisgarh,dantewada,143,22,22,143,3.4918,Low,Low,0,0,True,59.34,40.61,0.05
+assam,baksa,1,0,0,1,0.0242,Low,Low,0,0,True,98.77,1.23,0.0
+uttar pradesh,maharajganj,896,18069,16422,882,42.6643,High,High,2,2,True,0.0,0.0,100.0
+kerala,thiruvananthapuram,73,0,0,0,0.7854,Low,Low,0,0,True,96.68,3.32,0.0
+ladakh,leh ladakh,0,0,0,68,0.9159,Low,Low,0,0,True,97.0,3.0,0.0
+assam,sonitpur,82,0,0,82,1.9867,Low,Low,0,0,True,89.19,10.8,0.0

@@ -1,0 +1,49 @@
+project:
+  name: AI-Based eGramSwaraj Accounting Performance Analysis
+  description: District-level accounting performance classification using eGramSwaraj
+    2020-21 accounting indicators.
+  dataset: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_accounting_20_21.csv
+dataset_information:
+  rows: 727
+  columns: 16
+  financial_year: 2020-2021
+features:
+- onboard_egspi_normalized
+- pv_initiated_normalized
+- pv_approved_normalized
+- year_closed_normalized
+original_performance_features:
+- onboard_egspi
+- pv_initiated
+- pv_approved
+- year_closed
+target:
+  column: performance_class
+  classes:
+    Low: 0
+    Medium: 1
+    High: 2
+performance_score:
+  weights:
+    onboard_egspi: 0.2
+    pv_initiated: 0.25
+    pv_approved: 0.3
+    year_closed: 0.25
+  thresholds:
+    low_medium: 4.204420232779449
+    medium_high: 11.196011695278271
+model:
+  algorithm: RandomForestClassifier
+  n_estimators: 300
+  random_state: 42
+  class_weight: balanced
+training:
+  test_size: 0.2
+  scaling: StandardScaler
+performance:
+  accuracy: 0.958904109589041
+output_files:
+  pkl: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_model.pkl
+  h5: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_model.h5
+  yaml: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_config.yaml
+  json: C:\Users\sagni\Downloads\eGramSwaraj Accounting Performance Analysis\egramswaraj_metadata.json

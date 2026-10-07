@@ -1,0 +1,102 @@
+{
+    "project_name": "AI-Based eGramSwaraj Accounting Performance Analysis and District-Level Classification",
+    "dataset": {
+        "file_name": "egramswaraj_accounting_20_21.csv",
+        "file_path": "C:\\Users\\sagni\\Downloads\\eGramSwaraj Accounting Performance Analysis\\egramswaraj_accounting_20_21.csv",
+        "rows": 727,
+        "columns": 16,
+        "financial_year": "2020-2021"
+    },
+    "model": {
+        "name": "Random Forest Classifier",
+        "accuracy": 0.958904109589041,
+        "accuracy_percentage": 95.89,
+        "number_of_trees": 300
+    },
+    "features": [
+        "onboard_egspi_normalized",
+        "pv_initiated_normalized",
+        "pv_approved_normalized",
+        "year_closed_normalized"
+    ],
+    "target": {
+        "name": "performance_class",
+        "mapping": {
+            "Low": 0,
+            "Medium": 1,
+            "High": 2
+        }
+    },
+    "performance_score_weights": {
+        "onboard_egspi": 0.2,
+        "pv_initiated": 0.25,
+        "pv_approved": 0.3,
+        "year_closed": 0.25
+    },
+    "performance_thresholds": {
+        "low_medium": 4.204420232779449,
+        "medium_high": 11.196011695278271
+    },
+    "feature_importance": {
+        "onboard_egspi_normalized": 0.3971767984452244,
+        "pv_initiated_normalized": 0.10077949872486358,
+        "pv_approved_normalized": 0.11295245546441297,
+        "year_closed_normalized": 0.389091247365499
+    },
+    "confusion_matrix": [
+        [
+            48,
+            0,
+            0
+        ],
+        [
+            2,
+            43,
+            3
+        ],
+        [
+            0,
+            1,
+            49
+        ]
+    ],
+    "classification_report": {
+        "Low": {
+            "precision": 0.96,
+            "recall": 1.0,
+            "f1-score": 0.9795918367346939,
+            "support": 48.0
+        },
+        "Medium": {
+            "precision": 0.9772727272727273,
+            "recall": 0.8958333333333334,
+            "f1-score": 0.9347826086956522,
+            "support": 48.0
+        },
+        "High": {
+            "precision": 0.9423076923076923,
+            "recall": 0.98,
+            "f1-score": 0.9607843137254902,
+            "support": 50.0
+        },
+        "accuracy": 0.958904109589041,
+        "macro avg": {
+            "precision": 0.9598601398601398,
+            "recall": 0.9586111111111112,
+            "f1-score": 0.9583862530519455,
+            "support": 146.0
+        },
+        "weighted avg": {
+            "precision": 0.9596196953731199,
+            "recall": 0.958904109589041,
+            "f1-score": 0.9584191031981584,
+            "support": 146.0
+        }
+    },
+    "saved_files": {
+        "pkl": "egramswaraj_model.pkl",
+        "h5": "egramswaraj_model.h5",
+        "yaml": "egramswaraj_config.yaml",
+        "json": "egramswaraj_metadata.json"
+    }
+}

@@ -1,0 +1,728 @@
+﻿finyear,state_code,state_name,district_code,district_name,onboard_egspi,pv_initiated,pv_approved,year_closed
+2020-2021,14,manipur,716,tengnoupal,0,0,0,0
+2020-2021,14,manipur,717,kamjong,0,0,0,0
+2020-2021,14,manipur,254,churachandpur,0,0,0,0
+2020-2021,14,manipur,258,tamenglong,0,0,0,0
+2020-2021,14,manipur,714,noney,0,0,0,0
+2020-2021,14,manipur,257,senapati,0,0,0,0
+2020-2021,14,manipur,715,pherzawl,0,0,0,0
+2020-2021,14,manipur,712,kangpokpi,0,0,0,0
+2020-2021,14,manipur,260,ukhrul,0,0,0,0
+2020-2021,14,manipur,253,chandel,0,0,0,0
+2020-2021,36,telangana,720,mulugu,0,0,0,0
+2020-2021,36,telangana,507,hyderabad,0,0,0,0
+2020-2021,36,telangana,683,rajanna sircilla,0,0,0,0
+2020-2021,35,andaman and nicobar islands,632,north and middle andaman,0,0,0,0
+2020-2021,35,andaman and nicobar islands,602,south andamans,0,0,0,0
+2020-2021,35,andaman and nicobar islands,603,nicobars,0,0,0,0
+2020-2021,13,nagaland,247,mon,0,0,0,0
+2020-2021,13,nagaland,249,tuensang,0,0,0,0
+2020-2021,13,nagaland,613,peren,0,0,0,0
+2020-2021,13,nagaland,244,dimapur,0,0,0,0
+2020-2021,13,nagaland,615,longleng,0,0,0,0
+2020-2021,13,nagaland,614,kiphire,0,0,0,0
+2020-2021,13,nagaland,251,zunheboto,0,0,0,0
+2020-2021,13,nagaland,736,noklak,0,0,0,0
+2020-2021,13,nagaland,246,mokokchung,0,0,0,0
+2020-2021,19,west bengal,702,kalimpong,0,0,0,0
+2020-2021,19,west bengal,315,kolkata,0,0,0,0
+2020-2021,38,the dadra and nagar haveli and daman and diu,465,dadra and nagar haveli,0,0,0,0
+2020-2021,38,the dadra and nagar haveli and daman and diu,463,daman,0,0,0,0
+2020-2021,38,the dadra and nagar haveli and daman and diu,464,diu,0,0,0,0
+2020-2021,27,maharashtra,482,mumbai,0,0,0,0
+2020-2021,27,maharashtra,483,mumbai suburban,0,0,0,0
+2020-2021,34,puducherry,600,pondicherry,0,0,0,0
+2020-2021,34,puducherry,601,yanam,0,0,0,0
+2020-2021,34,puducherry,598,karaikal,0,0,0,0
+2020-2021,34,puducherry,599,mahe,0,0,0,0
+2020-2021,29,karnataka,738,vijayanagar,0,0,0,0
+2020-2021,18,assam,299,dima hasao,0,0,0,0
+2020-2021,18,assam,739,bajali,0,0,0,0
+2020-2021,18,assam,294,kokrajhar,0,0,0,0
+2020-2021,18,assam,617,udalguri,0,0,0,0
+2020-2021,18,assam,292,karbi anglong,0,0,0,0
+2020-2021,18,assam,710,west karbi anglong,0,0,0,0
+2020-2021,33,tamil nadu,568,chennai,0,0,0,0
+2020-2021,12,arunachal pradesh,725,shi yomi,0,0,0,0
+2020-2021,12,arunachal pradesh,628,anjaw,0,0,0,0
+2020-2021,12,arunachal pradesh,724,leparada,0,0,0,0
+2020-2021,12,arunachal pradesh,719,lower siang,0,0,0,0
+2020-2021,17,meghalaya,658,south west khasi hills,0,0,0,0
+2020-2021,17,meghalaya,656,north garo hills,0,0,0,0
+2020-2021,17,meghalaya,276,ri bhoi,0,0,0,0
+2020-2021,17,meghalaya,663,south west garo hills,0,0,0,0
+2020-2021,17,meghalaya,273,east garo hills,0,0,0,0
+2020-2021,17,meghalaya,277,south garo hills,0,0,0,0
+2020-2021,17,meghalaya,657,east jaintia hills,0,0,0,0
+2020-2021,17,meghalaya,275,west jaintia hills,0,0,0,0
+2020-2021,17,meghalaya,278,west garo hills,0,0,0,0
+2020-2021,17,meghalaya,279,west khasi hills,0,0,0,0
+2020-2021,17,meghalaya,274,east khasi hills,0,0,0,0
+2020-2021,31,lakshadweep,553,lakshadweep district,0,0,0,0
+2020-2021,4,chandigarh,44,chandigarh,0,0,0,0
+2020-2021,16,tripura,269,dhalai,151,1154,1033,151
+2020-2021,16,tripura,270,north tripura,129,1620,1429,129
+2020-2021,16,tripura,655,unakoti,94,644,581,94
+2020-2021,16,tripura,654,gomati,173,1246,1130,173
+2020-2021,16,tripura,652,khowai,124,730,666,124
+2020-2021,16,tripura,272,west tripura,172,1582,1468,172
+2020-2021,16,tripura,271,south tripura,169,613,557,169
+2020-2021,16,tripura,653,sepahijala,169,1583,1414,169
+2020-2021,8,rajasthan,86,ajmer,318,226,226,324
+2020-2021,8,rajasthan,87,alwar,568,1016,978,575
+2020-2021,8,rajasthan,88,banswara,410,4189,3953,408
+2020-2021,8,rajasthan,89,baran,225,997,944,230
+2020-2021,8,rajasthan,90,barmer,640,2449,2389,666
+2020-2021,8,rajasthan,91,bharatpur,400,8980,8722,399
+2020-2021,8,rajasthan,92,bhilwara,132,0,0,371
+2020-2021,8,rajasthan,93,bikaner,329,711,692,364
+2020-2021,8,rajasthan,94,bundi,184,1918,1808,184
+2020-2021,8,rajasthan,95,chittorgarh,272,282,264,295
+2020-2021,8,rajasthan,96,churu,304,3094,2977,304
+2020-2021,8,rajasthan,97,dausa,285,423,382,284
+2020-2021,8,rajasthan,98,dholpur,190,3490,3138,190
+2020-2021,8,rajasthan,99,dungarpur,351,4617,4405,351
+2020-2021,8,rajasthan,100,ganganagar,339,0,0,341
+2020-2021,8,rajasthan,101,hanumangarh,258,1232,1182,268
+2020-2021,8,rajasthan,102,jaipur,598,3010,2813,603
+2020-2021,8,rajasthan,103,jaisalmer,206,722,657,205
+2020-2021,8,rajasthan,104,jalore,300,622,590,307
+2020-2021,8,rajasthan,105,jhalawar,226,4702,4627,254
+2020-2021,8,rajasthan,106,jhunjhunu,337,3075,2934,337
+2020-2021,8,rajasthan,107,jodhpur,624,5480,5159,608
+2020-2021,8,rajasthan,108,karauli,236,6684,6509,239
+2020-2021,8,rajasthan,109,kota,156,1237,1213,156
+2020-2021,8,rajasthan,110,nagaur,421,259,241,495
+2020-2021,8,rajasthan,111,pali,175,0,0,313
+2020-2021,8,rajasthan,112,rajsamand,212,1341,1238,201
+2020-2021,8,rajasthan,113,sawai madhopur,200,1704,1590,206
+2020-2021,8,rajasthan,114,sikar,342,947,881,373
+2020-2021,8,rajasthan,115,sirohi,126,924,894,157
+2020-2021,8,rajasthan,116,tonk,236,2230,2144,236
+2020-2021,8,rajasthan,117,udaipur,594,2687,2558,638
+2020-2021,8,rajasthan,629,pratapgarh,223,1760,1720,226
+2020-2021,21,odisha,352,dhenkanal,212,752,699,212
+2020-2021,21,odisha,355,jagatsinghapur,198,492,437,198
+2020-2021,21,odisha,366,nabarangpur,189,1131,1045,189
+2020-2021,21,odisha,361,kendujhar,297,895,829,297
+2020-2021,21,odisha,367,nayagarh,194,1426,1356,194
+2020-2021,21,odisha,351,deogarh,70,209,195,70
+2020-2021,21,odisha,347,bargarh,253,1099,1036,253
+2020-2021,21,odisha,373,sundargarh,279,1792,1714,279
+2020-2021,21,odisha,349,boudh,69,458,412,69
+2020-2021,21,odisha,371,sambalpur,138,1137,1082,138
+2020-2021,21,odisha,363,koraput,240,846,759,240
+2020-2021,21,odisha,358,kalahandi,310,1690,1510,310
+2020-2021,21,odisha,365,mayurbhanj,405,2712,2386,405
+2020-2021,21,odisha,344,anugul,225,853,763,225
+2020-2021,21,odisha,353,gajapati,149,520,477,149
+2020-2021,21,odisha,370,rayagada,182,1712,1625,182
+2020-2021,21,odisha,348,bhadrak,218,1876,1736,218
+2020-2021,21,odisha,369,puri,268,1289,1175,268
+2020-2021,21,odisha,359,kandhamal,171,1292,1247,171
+2020-2021,21,odisha,356,jajapur,311,765,691,311
+2020-2021,21,odisha,350,cuttack,374,1938,1799,374
+2020-2021,21,odisha,364,malkangiri,111,61,52,111
+2020-2021,21,odisha,372,sonepur,109,651,604,109
+2020-2021,21,odisha,368,nuapada,130,428,374,131
+2020-2021,21,odisha,362,khordha,190,1050,1005,190
+2020-2021,21,odisha,357,jharsuguda,78,244,233,78
+2020-2021,21,odisha,354,ganjam,503,2164,1918,503
+2020-2021,21,odisha,345,balangir,318,2221,2074,318
+2020-2021,21,odisha,360,kendrapara,248,537,491,249
+2020-2021,21,odisha,346,baleshwar,361,2369,2250,361
+2020-2021,24,gujarat,438,ahmadabad,458,0,0,464
+2020-2021,24,gujarat,439,amreli,597,0,0,598
+2020-2021,24,gujarat,440,anand,351,0,0,351
+2020-2021,24,gujarat,441,banas kantha,879,0,0,878
+2020-2021,24,gujarat,442,bharuch,543,0,0,544
+2020-2021,24,gujarat,443,bhavnagar,660,0,0,660
+2020-2021,24,gujarat,444,dang,70,0,0,70
+2020-2021,24,gujarat,445,dohad,557,0,0,555
+2020-2021,24,gujarat,446,gandhinagar,285,9,7,286
+2020-2021,24,gujarat,447,jamnagar,416,0,0,417
+2020-2021,24,gujarat,448,junagadh,491,0,0,491
+2020-2021,24,gujarat,449,kachchh,628,0,0,628
+2020-2021,24,gujarat,450,kheda,518,0,0,517
+2020-2021,24,gujarat,451,mahesana,609,0,0,610
+2020-2021,24,gujarat,452,narmada,222,0,0,222
+2020-2021,24,gujarat,453,navsari,360,0,0,360
+2020-2021,24,gujarat,454,panch mahals,486,0,0,486
+2020-2021,24,gujarat,455,patan,474,0,0,474
+2020-2021,24,gujarat,456,porbandar,147,0,0,147
+2020-2021,24,gujarat,457,rajkot,590,0,0,590
+2020-2021,24,gujarat,458,sabar kantha,459,0,0,459
+2020-2021,24,gujarat,459,surat,547,0,0,547
+2020-2021,24,gujarat,460,surendranagar,529,0,0,536
+2020-2021,24,gujarat,461,vadodara,511,0,0,534
+2020-2021,24,gujarat,462,valsad,384,0,0,384
+2020-2021,24,gujarat,641,tapi,291,0,0,291
+2020-2021,24,gujarat,668,chhotaudepur,343,0,0,343
+2020-2021,24,gujarat,669,mahisagar,353,0,0,350
+2020-2021,24,gujarat,672,arvalli,321,0,0,319
+2020-2021,24,gujarat,673,morbi,350,0,0,350
+2020-2021,24,gujarat,674,devbhumi dwarka,239,0,0,239
+2020-2021,24,gujarat,675,gir somnath,327,0,0,329
+2020-2021,24,gujarat,676,botad,180,0,0,178
+2020-2021,6,haryana,68,kurukshetra,404,19,12,393
+2020-2021,6,haryana,74,sirsa,340,4283,4076,338
+2020-2021,6,haryana,604,nuh,325,781,702,314
+2020-2021,6,haryana,73,rohtak,140,1053,993,136
+2020-2021,6,haryana,72,rewari,365,146,141,358
+2020-2021,6,haryana,59,bhiwani,310,784,755,304
+2020-2021,6,haryana,76,yamunanagar,489,1685,1580,472
+2020-2021,6,haryana,75,sonipat,318,760,718,306
+2020-2021,6,haryana,70,panchkula,135,1155,1105,128
+2020-2021,6,haryana,71,panipat,177,597,550,166
+2020-2021,6,haryana,61,fatehabad,257,1783,1676,253
+2020-2021,6,haryana,66,kaithal,279,338,311,278
+2020-2021,6,haryana,65,jind,301,3044,2780,300
+2020-2021,6,haryana,62,gurugram,207,1236,1211,162
+2020-2021,6,haryana,619,palwal,166,148,142,201
+2020-2021,6,haryana,60,faridabad,113,464,430,99
+2020-2021,6,haryana,64,jhajjar,250,895,831,247
+2020-2021,6,haryana,67,karnal,394,996,908,375
+2020-2021,6,haryana,63,hisar,302,3516,3249,283
+2020-2021,6,haryana,58,ambala,151,159,147,210
+2020-2021,6,haryana,69,mahendragarh,344,827,789,338
+2020-2021,6,haryana,701,charki dadri,165,220,205,161
+2020-2021,14,manipur,711,kakching,17,60,58,17
+2020-2021,14,manipur,252,bishnupur,24,77,76,24
+2020-2021,14,manipur,713,jiribam,6,27,27,6
+2020-2021,14,manipur,256,imphal west,39,302,297,39
+2020-2021,14,manipur,255,imphal east,50,182,173,50
+2020-2021,14,manipur,259,thoubal,25,220,220,25
+2020-2021,3,punjab,27,amritsar,847,2037,1944,859
+2020-2021,3,punjab,28,bathinda,318,41,31,318
+2020-2021,3,punjab,29,faridkot,243,335,294,243
+2020-2021,3,punjab,30,fatehgarh sahib,417,11,11,422
+2020-2021,3,punjab,31,firozepur,777,1145,1064,786
+2020-2021,3,punjab,32,gurdaspur,1271,897,787,1284
+2020-2021,3,punjab,33,hoshiarpur,1392,210,209,1405
+2020-2021,3,punjab,34,jalandhar,869,342,329,887
+2020-2021,3,punjab,35,kapurthala,541,534,488,539
+2020-2021,3,punjab,36,ludhiana,940,673,630,938
+2020-2021,3,punjab,37,mansa,245,1894,1808,245
+2020-2021,3,punjab,38,moga,340,391,375,340
+2020-2021,3,punjab,39,sri muktsar sahib,269,927,884,269
+2020-2021,3,punjab,40,shahid bhagat singh nagar,456,171,165,466
+2020-2021,3,punjab,41,patiala,996,24,22,1031
+2020-2021,3,punjab,42,rupnagar,610,78,75,611
+2020-2021,3,punjab,43,sangrur,580,54,46,598
+2020-2021,3,punjab,605,barnala,171,24,24,175
+2020-2021,3,punjab,608,s.a.s nagar,306,223,217,340
+2020-2021,3,punjab,609,tarn taran,553,509,472,565
+2020-2021,3,punjab,651,fazilka,480,693,667,481
+2020-2021,3,punjab,662,pathankot,372,0,0,414
+2020-2021,36,telangana,684,mancherial,0,0,0,251
+2020-2021,36,telangana,690,bhadradri kothagudem,0,0,0,25
+2020-2021,36,telangana,508,karimnagar,0,0,0,261
+2020-2021,36,telangana,688,mahabubabad,0,0,0,45
+2020-2021,36,telangana,514,nalgonda,0,0,0,243
+2020-2021,36,telangana,689,jangoan,0,0,0,59
+2020-2021,36,telangana,516,nizamabad,0,0,0,14
+2020-2021,36,telangana,522,warangal rural,0,0,0,196
+2020-2021,36,telangana,518,ranga reddy,0,0,0,14
+2020-2021,36,telangana,685,kamareddy,0,0,0,208
+2020-2021,36,telangana,697,yadadri bhuvanagiri,0,0,0,398
+2020-2021,36,telangana,698,vikarabad,0,0,0,201
+2020-2021,36,telangana,512,mahabubnagar,0,0,0,182
+2020-2021,36,telangana,682,peddapalli,0,0,0,19
+2020-2021,36,telangana,700,medchal malkajgiri,0,0,0,6
+2020-2021,36,telangana,693,wanaparthy,0,0,0,167
+2020-2021,36,telangana,699,kumuram bheem asifabad,0,0,0,73
+2020-2021,36,telangana,696,suryapet,0,0,0,78
+2020-2021,36,telangana,681,jagitial,0,0,0,379
+2020-2021,36,telangana,513,medak,0,0,0,64
+2020-2021,36,telangana,691,sangareddy,0,0,0,352
+2020-2021,36,telangana,686,warangal urban,0,0,0,127
+2020-2021,36,telangana,692,siddipet,0,0,0,339
+2020-2021,36,telangana,695,jogulamba gadwal,0,0,0,242
+2020-2021,36,telangana,680,nirmal,0,0,0,24
+2020-2021,36,telangana,694,nagarkurnool,0,0,0,416
+2020-2021,36,telangana,721,narayanpet,0,0,0,136
+2020-2021,36,telangana,501,adilabad,0,0,0,333
+2020-2021,36,telangana,509,khammam,0,0,0,569
+2020-2021,36,telangana,687,jayashankar bhupalapally,0,0,0,12
+2020-2021,13,nagaland,250,wokha,1,0,0,0
+2020-2021,13,nagaland,245,kohima,1,0,0,0
+2020-2021,13,nagaland,248,phek,3,0,0,0
+2020-2021,5,uttarakhand,55,tehri garhwal,1034,1184,1099,1033
+2020-2021,5,uttarakhand,45,almora,1160,3925,3724,1160
+2020-2021,5,uttarakhand,51,nainital,480,3355,3145,480
+2020-2021,5,uttarakhand,54,rudra prayag,336,1627,1570,336
+2020-2021,5,uttarakhand,46,bageshwar,406,1779,1697,407
+2020-2021,5,uttarakhand,56,udam singh nagar,376,3721,3456,376
+2020-2021,5,uttarakhand,47,chamoli,610,1385,1301,610
+2020-2021,5,uttarakhand,57,uttar kashi,508,2139,1992,508
+2020-2021,5,uttarakhand,50,haridwar,306,17649,17078,306
+2020-2021,5,uttarakhand,53,pithoragarh,686,1778,1739,686
+2020-2021,5,uttarakhand,48,champawat,312,558,553,313
+2020-2021,5,uttarakhand,52,pauri garhwal,1174,3939,3489,1174
+2020-2021,5,uttarakhand,49,dehradun,401,4023,3745,401
+2020-2021,20,jharkhand,607,ramgarh,124,623,606,125
+2020-2021,20,jharkhand,329,giridih,352,6025,5739,349
+2020-2021,20,jharkhand,336,lohardaga,66,1642,1583,66
+2020-2021,20,jharkhand,330,godda,201,6781,6656,200
+2020-2021,20,jharkhand,323,chatra,152,1671,1602,152
+2020-2021,20,jharkhand,322,bokaro,249,2791,2671,249
+2020-2021,20,jharkhand,333,jamtara,118,2437,2376,118
+2020-2021,20,jharkhand,324,deoghar,194,2302,2250,194
+2020-2021,20,jharkhand,326,dumka,206,3153,2993,206
+2020-2021,20,jharkhand,325,dhanbad,256,2244,2117,256
+2020-2021,20,jharkhand,334,koderma,106,729,715,106
+2020-2021,20,jharkhand,337,pakur,128,4580,4472,128
+2020-2021,20,jharkhand,340,sahebganj,162,3639,3428,163
+2020-2021,20,jharkhand,343,west singhbhum,217,2588,2458,217
+2020-2021,20,jharkhand,338,palamu,269,3846,3749,269
+2020-2021,20,jharkhand,341,saraikela kharsawan,132,1091,1049,132
+2020-2021,20,jharkhand,342,simdega,94,1652,1602,94
+2020-2021,20,jharkhand,331,gumla,159,1189,1169,159
+2020-2021,20,jharkhand,327,east singhbum,231,1555,1498,231
+2020-2021,20,jharkhand,328,garhwa,189,2343,2084,189
+2020-2021,20,jharkhand,606,khunti,86,2024,1995,86
+2020-2021,20,jharkhand,335,latehar,115,2241,2149,115
+2020-2021,20,jharkhand,339,ranchi,305,2844,2715,305
+2020-2021,20,jharkhand,332,hazaribagh,251,2457,2371,251
+2020-2021,22,chhattisgarh,374,bastar,433,788,712,433
+2020-2021,22,chhattisgarh,375,bilaspur,483,2607,2494,482
+2020-2021,22,chhattisgarh,376,dantewada,143,22,22,143
+2020-2021,22,chhattisgarh,377,dhamtari,370,3250,3114,370
+2020-2021,22,chhattisgarh,378,durg,304,5264,5098,304
+2020-2021,22,chhattisgarh,379,janjgir-champa,657,4767,4470,657
+2020-2021,22,chhattisgarh,380,jashpur,442,400,364,444
+2020-2021,22,chhattisgarh,381,kanker,454,364,340,454
+2020-2021,22,chhattisgarh,382,kabirdham,468,3370,3037,468
+2020-2021,22,chhattisgarh,383,korba,412,1497,1242,412
+2020-2021,22,chhattisgarh,384,korea,362,2135,2030,363
+2020-2021,22,chhattisgarh,385,mahasamund,550,2257,2038,551
+2020-2021,22,chhattisgarh,386,raigarh,773,4148,3901,774
+2020-2021,22,chhattisgarh,387,raipur,416,2447,2341,416
+2020-2021,22,chhattisgarh,388,rajnandgaon,813,8126,7646,813
+2020-2021,22,chhattisgarh,389,surguja,440,3105,2952,440
+2020-2021,22,chhattisgarh,636,bijapur,170,82,59,170
+2020-2021,22,chhattisgarh,637,narayanpur,100,95,89,104
+2020-2021,22,chhattisgarh,642,sukma,153,43,37,153
+2020-2021,22,chhattisgarh,643,kondagaon,383,841,806,383
+2020-2021,22,chhattisgarh,644,baloda bazar,644,6945,5601,644
+2020-2021,22,chhattisgarh,645,gariyaband,333,2098,1817,336
+2020-2021,22,chhattisgarh,646,balod,435,7875,7110,435
+2020-2021,22,chhattisgarh,647,mungeli,370,854,789,370
+2020-2021,22,chhattisgarh,648,surajpur,480,1006,954,480
+2020-2021,22,chhattisgarh,649,balrampur,465,137,126,468
+2020-2021,22,chhattisgarh,650,bemetara,429,4416,4236,429
+2020-2021,22,chhattisgarh,734,gaurella pendra marwahi,166,470,443,166
+2020-2021,15,mizoram,727,saitual,44,0,0,43
+2020-2021,15,mizoram,264,lawngtlai,183,0,0,183
+2020-2021,15,mizoram,262,champhai,62,0,0,62
+2020-2021,15,mizoram,726,hnahthial,32,0,0,32
+2020-2021,15,mizoram,728,khawzawl,38,0,0,38
+2020-2021,15,mizoram,266,mamit,90,0,0,90
+2020-2021,15,mizoram,263,kolasib,56,0,0,56
+2020-2021,15,mizoram,268,serchhip,54,0,0,54
+2020-2021,15,mizoram,267,saiha,93,0,0,93
+2020-2021,15,mizoram,265,lunglei,113,0,0,113
+2020-2021,15,mizoram,261,aizawl,69,2,2,69
+2020-2021,37,ladakh,9,leh ladakh,0,0,0,68
+2020-2021,37,ladakh,6,kargil,0,0,0,88
+2020-2021,23,madhya pradesh,390,anuppur,270,2278,2224,270
+2020-2021,23,madhya pradesh,391,ashoknagar,332,3075,2907,329
+2020-2021,23,madhya pradesh,392,balaghat,688,10092,9769,688
+2020-2021,23,madhya pradesh,393,barwani,414,8208,7959,408
+2020-2021,23,madhya pradesh,394,betul,556,7885,7688,554
+2020-2021,23,madhya pradesh,395,bhind,443,3668,3580,440
+2020-2021,23,madhya pradesh,396,bhopal,187,1730,1585,187
+2020-2021,23,madhya pradesh,397,burhanpur,167,4347,4180,167
+2020-2021,23,madhya pradesh,398,chhatarpur,558,8711,8435,557
+2020-2021,23,madhya pradesh,399,chhindwara,784,12404,11918,784
+2020-2021,23,madhya pradesh,400,damoh,461,3458,3232,461
+2020-2021,23,madhya pradesh,401,datia,290,1943,1891,289
+2020-2021,23,madhya pradesh,402,dewas,495,7748,7485,495
+2020-2021,23,madhya pradesh,403,dhar,761,10813,10305,760
+2020-2021,23,madhya pradesh,404,dindori,364,4113,3961,363
+2020-2021,23,madhya pradesh,405,east nimar,422,10946,10624,422
+2020-2021,23,madhya pradesh,406,guna,425,4715,4534,424
+2020-2021,23,madhya pradesh,407,gwalior,256,1926,1848,255
+2020-2021,23,madhya pradesh,408,harda,209,4177,4012,208
+2020-2021,23,madhya pradesh,409,hoshangabad,421,5035,4875,421
+2020-2021,23,madhya pradesh,410,indore,312,4132,3994,311
+2020-2021,23,madhya pradesh,411,jabalpur,514,5691,5493,515
+2020-2021,23,madhya pradesh,412,jhabua,375,4191,3988,374
+2020-2021,23,madhya pradesh,413,katni,404,6021,5798,403
+2020-2021,23,madhya pradesh,414,khargone,594,17184,16630,591
+2020-2021,23,madhya pradesh,415,mandla,485,7236,6970,485
+2020-2021,23,madhya pradesh,416,mandsaur,440,13735,13344,439
+2020-2021,23,madhya pradesh,417,morena,472,5045,4772,473
+2020-2021,23,madhya pradesh,418,narsinghpur,446,5179,4955,446
+2020-2021,23,madhya pradesh,419,neemuch,236,3644,3561,236
+2020-2021,23,madhya pradesh,420,panna,395,5097,4899,394
+2020-2021,23,madhya pradesh,421,raisen,489,5418,5205,491
+2020-2021,23,madhya pradesh,422,rajgarh,622,7283,6921,621
+2020-2021,23,madhya pradesh,423,ratlam,418,6970,6776,418
+2020-2021,23,madhya pradesh,424,rewa,810,11096,10585,809
+2020-2021,23,madhya pradesh,425,sagar,737,6655,6373,731
+2020-2021,23,madhya pradesh,426,satna,690,4372,3967,685
+2020-2021,23,madhya pradesh,427,sehore,496,6535,6275,497
+2020-2021,23,madhya pradesh,428,seoni,645,9522,9167,636
+2020-2021,23,madhya pradesh,429,shahdol,389,6851,6648,390
+2020-2021,23,madhya pradesh,430,shajapur,326,3694,3491,325
+2020-2021,23,madhya pradesh,431,sheopur,225,3738,3646,225
+2020-2021,23,madhya pradesh,432,shivpuri,600,12152,11949,587
+2020-2021,23,madhya pradesh,433,sidhi,399,3376,3285,400
+2020-2021,23,madhya pradesh,434,tikamgarh,323,3354,3275,323
+2020-2021,23,madhya pradesh,435,ujjain,608,6356,6060,608
+2020-2021,23,madhya pradesh,436,umaria,234,1561,1465,230
+2020-2021,23,madhya pradesh,437,vidisha,576,8616,8312,576
+2020-2021,23,madhya pradesh,638,singrauli,312,2428,2249,311
+2020-2021,23,madhya pradesh,639,alirajpur,288,2506,2462,288
+2020-2021,23,madhya pradesh,667,agar malwa,227,3094,2995,227
+2020-2021,23,madhya pradesh,722,niwari,136,1227,1197,136
+2020-2021,11,sikkim,228,west district,58,0,0,60
+2020-2021,11,sikkim,225,east district,48,2,2,49
+2020-2021,11,sikkim,226,north district,22,2,2,24
+2020-2021,11,sikkim,227,south district,48,2,2,48
+2020-2021,19,west bengal,704,paschim bardhaman,62,331,278,62
+2020-2021,19,west bengal,307,birbhum,167,4823,4536,167
+2020-2021,19,west bengal,306,purba bardhaman,215,1916,1753,215
+2020-2021,19,west bengal,303,24 paraganas north,198,766,695,197
+2020-2021,19,west bengal,310,dinajpur dakshin,64,792,756,64
+2020-2021,19,west bengal,703,jhargram,79,136,131,79
+2020-2021,19,west bengal,313,howrah,157,1982,1929,157
+2020-2021,19,west bengal,318,medinipur west,211,416,412,194
+2020-2021,19,west bengal,319,murshidabad,250,2970,2789,250
+2020-2021,19,west bengal,311,dinajpur uttar,98,873,817,98
+2020-2021,19,west bengal,316,maldah,146,2076,1940,146
+2020-2021,19,west bengal,317,medinipur east,223,1065,1025,222
+2020-2021,19,west bengal,664,alipurduar,66,920,892,66
+2020-2021,19,west bengal,305,bankura,190,779,767,189
+2020-2021,19,west bengal,312,hooghly,207,998,935,206
+2020-2021,19,west bengal,321,purulia,170,952,912,170
+2020-2021,19,west bengal,308,coochbehar,128,613,565,128
+2020-2021,19,west bengal,314,jalpaiguri,80,252,237,80
+2020-2021,19,west bengal,320,nadia,185,318,297,177
+2020-2021,19,west bengal,309,darjeeling,22,141,132,22
+2020-2021,19,west bengal,304,24 paraganas south,310,4144,3932,310
+2020-2021,1,jammu and kashmir,13,srinagar,0,0,0,22
+2020-2021,1,jammu and kashmir,623,bandipora,0,0,0,151
+2020-2021,1,jammu and kashmir,12,rajouri,0,0,0,304
+2020-2021,1,jammu and kashmir,7,kathua,0,0,0,257
+2020-2021,1,jammu and kashmir,627,reasi,0,0,0,153
+2020-2021,1,jammu and kashmir,5,jammu,0,0,0,304
+2020-2021,1,jammu and kashmir,4,doda,0,0,0,231
+2020-2021,1,jammu and kashmir,2,budgam,0,0,0,296
+2020-2021,1,jammu and kashmir,1,anantnag,0,0,0,335
+2020-2021,1,jammu and kashmir,11,pulwama,0,0,0,185
+2020-2021,1,jammu and kashmir,14,udhampur,0,0,0,231
+2020-2021,1,jammu and kashmir,10,poonch,0,0,0,227
+2020-2021,1,jammu and kashmir,8,kupwara,0,0,0,385
+2020-2021,1,jammu and kashmir,3,baramulla,0,0,0,402
+2020-2021,1,jammu and kashmir,622,kulgam,0,0,0,177
+2020-2021,1,jammu and kashmir,621,ramban,0,0,0,136
+2020-2021,1,jammu and kashmir,626,ganderbal,0,0,0,126
+2020-2021,1,jammu and kashmir,620,kishtwar,0,0,0,133
+2020-2021,1,jammu and kashmir,625,shopian,0,0,0,98
+2020-2021,1,jammu and kashmir,624,samba,0,0,0,101
+2020-2021,27,maharashtra,466,ahmednagar,1316,206,162,1318
+2020-2021,27,maharashtra,467,akola,521,208,181,535
+2020-2021,27,maharashtra,468,amravati,834,104,104,840
+2020-2021,27,maharashtra,469,aurangabad,821,132,108,864
+2020-2021,27,maharashtra,470,beed,961,15,14,1028
+2020-2021,27,maharashtra,471,bhandara,538,17,10,541
+2020-2021,27,maharashtra,472,buldhana,710,0,0,869
+2020-2021,27,maharashtra,473,chandrapur,781,159,158,824
+2020-2021,27,maharashtra,474,dhule,541,1143,1105,541
+2020-2021,27,maharashtra,475,gadchiroli,455,240,238,456
+2020-2021,27,maharashtra,476,gondia,529,23,23,545
+2020-2021,27,maharashtra,477,hingoli,547,0,0,563
+2020-2021,27,maharashtra,478,jalgaon,1089,48,43,1145
+2020-2021,27,maharashtra,479,jalna,770,35,35,777
+2020-2021,27,maharashtra,480,kolhapur,980,68,68,1023
+2020-2021,27,maharashtra,481,latur,781,44,37,784
+2020-2021,27,maharashtra,484,nagpur,765,760,712,768
+2020-2021,27,maharashtra,485,nanded,1270,4,4,1309
+2020-2021,27,maharashtra,486,nandurbar,583,1143,1035,593
+2020-2021,27,maharashtra,487,nashik,1376,655,616,1385
+2020-2021,27,maharashtra,488,osmanabad,541,74,74,622
+2020-2021,27,maharashtra,489,parbhani,583,129,120,703
+2020-2021,27,maharashtra,490,pune,1337,55,45,1396
+2020-2021,27,maharashtra,491,raigad,797,374,356,809
+2020-2021,27,maharashtra,492,ratnagiri,815,2,2,846
+2020-2021,27,maharashtra,493,sangli,676,8,8,699
+2020-2021,27,maharashtra,494,satara,1432,7,6,1494
+2020-2021,27,maharashtra,495,sindhudurg,424,8,6,429
+2020-2021,27,maharashtra,496,solapur,1011,295,276,1028
+2020-2021,27,maharashtra,497,thane,424,21,20,430
+2020-2021,27,maharashtra,498,wardha,510,208,185,516
+2020-2021,27,maharashtra,499,washim,483,10,10,491
+2020-2021,27,maharashtra,500,yavatmal,1194,45,45,1201
+2020-2021,27,maharashtra,665,palghar,469,372,340,473
+2020-2021,32,kerala,554,alappuzha,72,0,0,0
+2020-2021,32,kerala,563,palakkad,88,0,0,0
+2020-2021,32,kerala,559,kollam,68,0,0,0
+2020-2021,32,kerala,566,thrissur,86,0,0,0
+2020-2021,32,kerala,555,ernakulam,82,0,0,0
+2020-2021,32,kerala,565,thiruvananthapuram,73,0,0,0
+2020-2021,32,kerala,564,pathanamthitta,53,0,0,0
+2020-2021,32,kerala,556,idukki,52,0,0,0
+2020-2021,32,kerala,562,malappuram,94,0,0,0
+2020-2021,32,kerala,567,wayanad,23,0,0,0
+2020-2021,32,kerala,561,kozhikode,70,0,0,0
+2020-2021,32,kerala,560,kottayam,71,0,0,0
+2020-2021,32,kerala,557,kannur,71,0,0,0
+2020-2021,32,kerala,558,kasaragod,38,0,0,0
+2020-2021,29,karnataka,631,ramanagara,127,4083,3470,127
+2020-2021,29,karnataka,630,chikkaballapura,157,6277,5957,157
+2020-2021,29,karnataka,524,bagalkote,198,3279,2740,198
+2020-2021,29,karnataka,529,bidar,185,4572,4308,185
+2020-2021,29,karnataka,549,udupi,155,2343,2059,155
+2020-2021,29,karnataka,540,haveri,223,5980,5571,223
+2020-2021,29,karnataka,550,uttara kannada,230,2985,2836,230
+2020-2021,29,karnataka,526,bengaluru rural,102,2550,2318,102
+2020-2021,29,karnataka,536,dharwad,144,3323,2967,144
+2020-2021,29,karnataka,532,chikkamagaluru,225,3188,2865,226
+2020-2021,29,karnataka,537,gadag,122,1834,1694,122
+2020-2021,29,karnataka,538,kalaburagi,262,5447,5056,261
+2020-2021,29,karnataka,534,dakshina kannada,225,3183,2875,224
+2020-2021,29,karnataka,543,koppal,153,5726,5260,153
+2020-2021,29,karnataka,548,tumakuru,330,9062,8333,330
+2020-2021,29,karnataka,533,chitradurga,189,6652,6076,188
+2020-2021,29,karnataka,545,mysuru,266,3162,2972,266
+2020-2021,29,karnataka,525,bengaluru urban,92,1704,1424,92
+2020-2021,29,karnataka,541,kodagu,103,1598,1441,103
+2020-2021,29,karnataka,530,vijayapura,212,4941,4367,212
+2020-2021,29,karnataka,528,ballari,235,2355,2168,235
+2020-2021,29,karnataka,544,mandya,233,2300,2113,233
+2020-2021,29,karnataka,527,belagavi,506,6712,6033,506
+2020-2021,29,karnataka,539,hassan,267,7993,7060,267
+2020-2021,29,karnataka,531,chamarajanagara,130,2857,2631,130
+2020-2021,29,karnataka,546,raichur,178,7037,6188,178
+2020-2021,29,karnataka,535,davangere,196,4306,3872,195
+2020-2021,29,karnataka,635,yadgir,122,3387,3162,122
+2020-2021,29,karnataka,547,shivamogga,271,3651,3464,271
+2020-2021,29,karnataka,542,kolar,156,8207,7676,156
+2020-2021,30,goa,552,south goa,86,0,0,89
+2020-2021,30,goa,551,north goa,93,0,0,102
+2020-2021,10,bihar,221,sitamarhi,270,0,0,259
+2020-2021,10,bihar,214,purnia,246,0,0,239
+2020-2021,10,bihar,201,katihar,236,0,0,235
+2020-2021,10,bihar,223,supaul,181,0,0,179
+2020-2021,10,bihar,216,saharsa,151,0,0,149
+2020-2021,10,bihar,202,khagaria,129,0,0,126
+2020-2021,10,bihar,215,rohtas,245,0,0,238
+2020-2021,10,bihar,195,darbhanga,324,0,0,304
+2020-2021,10,bihar,218,saran,323,0,0,309
+2020-2021,10,bihar,200,kaimur (bhabua),149,0,0,128
+2020-2021,10,bihar,188,araria,218,0,0,208
+2020-2021,10,bihar,194,buxar,142,0,0,142
+2020-2021,10,bihar,204,lakhisarai,80,0,0,80
+2020-2021,10,bihar,209,nalanda,249,0,0,249
+2020-2021,10,bihar,217,samastipur,381,0,0,362
+2020-2021,10,bihar,212,patna,322,0,0,293
+2020-2021,10,bihar,211,pashchim champaran,314,0,0,301
+2020-2021,10,bihar,208,muzaffarpur,385,0,0,381
+2020-2021,10,bihar,219,sheikhpura,54,0,0,54
+2020-2021,10,bihar,611,arwal,65,0,0,64
+2020-2021,10,bihar,207,munger,101,2,2,99
+2020-2021,10,bihar,222,siwan,293,0,0,289
+2020-2021,10,bihar,206,madhubani,399,4,4,387
+2020-2021,10,bihar,205,madhepura,170,0,0,157
+2020-2021,10,bihar,189,aurangabad,204,3,3,193
+2020-2021,10,bihar,197,gopalganj,234,0,0,234
+2020-2021,10,bihar,191,begusarai,229,0,0,229
+2020-2021,10,bihar,198,jamui,153,0,0,129
+2020-2021,10,bihar,213,purbi champaran,405,0,0,386
+2020-2021,10,bihar,224,vaishali,288,0,0,285
+2020-2021,10,bihar,193,bhojpur,228,2,2,225
+2020-2021,10,bihar,190,banka,185,13,10,184
+2020-2021,10,bihar,210,nawada,187,0,0,187
+2020-2021,10,bihar,192,bhagalpur,242,0,0,242
+2020-2021,10,bihar,220,sheohar,53,0,0,52
+2020-2021,10,bihar,203,kishanganj,126,0,0,120
+2020-2021,10,bihar,196,gaya,332,0,0,322
+2020-2021,10,bihar,199,jehanabad,93,0,0,87
+2020-2021,18,assam,618,kamrup metro,21,0,0,21
+2020-2021,18,assam,283,darrang,75,0,0,75
+2020-2021,18,assam,281,bongaigaon,62,0,0,64
+2020-2021,18,assam,287,goalpara,81,0,0,81
+2020-2021,18,assam,706,majuli,20,0,0,20
+2020-2021,18,assam,300,sivasagar,82,0,0,82
+2020-2021,18,assam,612,chirang,1,0,0,1
+2020-2021,18,assam,301,sonitpur,82,0,0,82
+2020-2021,18,assam,708,charaideo,36,0,0,36
+2020-2021,18,assam,616,baksa,1,0,0,1
+2020-2021,18,assam,707,south salmara mancachar,35,0,0,35
+2020-2021,18,assam,290,jorhat,90,0,0,90
+2020-2021,18,assam,705,biswanath,76,0,0,76
+2020-2021,18,assam,298,nalbari,65,0,0,65
+2020-2021,18,assam,302,tinsukia,85,0,0,85
+2020-2021,18,assam,284,dhemaji,65,0,0,65
+2020-2021,18,assam,288,golaghat,102,0,0,102
+2020-2021,18,assam,291,kamrup,135,0,0,138
+2020-2021,18,assam,282,cachar,161,0,0,162
+2020-2021,18,assam,286,dibrugarh,93,0,0,93
+2020-2021,18,assam,293,karimganj,95,0,0,95
+2020-2021,18,assam,280,barpeta,129,0,0,129
+2020-2021,18,assam,295,lakhimpur,81,0,0,81
+2020-2021,18,assam,297,nagaon,172,26,25,172
+2020-2021,18,assam,289,hailakandi,62,0,0,62
+2020-2021,18,assam,709,hojai,61,1,1,67
+2020-2021,18,assam,296,marigaon,85,0,0,85
+2020-2021,18,assam,285,dhubri,128,0,0,132
+2020-2021,33,tamil nadu,569,coimbatore,227,67,62,226
+2020-2021,33,tamil nadu,570,cuddalore,683,166,162,626
+2020-2021,33,tamil nadu,571,dharmapuri,242,6,5,240
+2020-2021,33,tamil nadu,572,dindigul,306,689,664,306
+2020-2021,33,tamil nadu,573,erode,223,18,14,221
+2020-2021,33,tamil nadu,574,kanchipuram,274,0,0,274
+2020-2021,33,tamil nadu,575,kanniyakumari,95,4,4,95
+2020-2021,33,tamil nadu,576,karur,157,71,71,157
+2020-2021,33,tamil nadu,577,krishnagiri,331,23,22,331
+2020-2021,33,tamil nadu,578,madurai,420,136,128,420
+2020-2021,33,tamil nadu,579,nagapattinam,192,18,8,191
+2020-2021,33,tamil nadu,580,namakkal,321,13,13,321
+2020-2021,33,tamil nadu,581,perambalur,121,28,28,121
+2020-2021,33,tamil nadu,582,pudukkottai,497,14,14,497
+2020-2021,33,tamil nadu,583,ramanathapuram,429,2,1,429
+2020-2021,33,tamil nadu,584,salem,371,21,21,374
+2020-2021,33,tamil nadu,585,sivaganga,444,15,15,444
+2020-2021,33,tamil nadu,586,thanjavur,587,2,2,587
+2020-2021,33,tamil nadu,587,the nilgiris,35,6,6,35
+2020-2021,33,tamil nadu,588,theni,129,2,2,130
+2020-2021,33,tamil nadu,589,thiruvallur,516,0,0,522
+2020-2021,33,tamil nadu,590,thiruvarur,430,12,11,414
+2020-2021,33,tamil nadu,591,tiruchirappalli,398,48,48,398
+2020-2021,33,tamil nadu,592,tirunelveli,204,0,0,204
+2020-2021,33,tamil nadu,593,tiruvannamalai,859,49,47,860
+2020-2021,33,tamil nadu,594,tuticorin,403,22,22,403
+2020-2021,33,tamil nadu,595,vellore,250,37,12,249
+2020-2021,33,tamil nadu,596,villupuram,472,0,0,592
+2020-2021,33,tamil nadu,597,virudhunagar,449,10,9,450
+2020-2021,33,tamil nadu,610,ariyalur,201,10,9,201
+2020-2021,33,tamil nadu,634,tiruppur,260,3,3,263
+2020-2021,33,tamil nadu,729,kallakurichi,413,5,4,414
+2020-2021,33,tamil nadu,730,chengalpattu,358,288,266,358
+2020-2021,33,tamil nadu,731,ranipet,286,1,1,287
+2020-2021,33,tamil nadu,732,tirupathur,208,107,101,208
+2020-2021,33,tamil nadu,733,tenkasi,219,0,0,221
+2020-2021,33,tamil nadu,735,mayiladuthurai,241,138,132,241
+2020-2021,12,arunachal pradesh,678,namsai,65,0,0,0
+2020-2021,12,arunachal pradesh,677,kra daadi,5,0,0,0
+2020-2021,12,arunachal pradesh,240,upper siang,4,0,0,0
+2020-2021,12,arunachal pradesh,232,east siang,1,0,0,0
+2020-2021,12,arunachal pradesh,723,pakke kessang,12,0,0,0
+2020-2021,12,arunachal pradesh,237,papum pare,1,0,0,0
+2020-2021,12,arunachal pradesh,238,tawang,6,0,0,0
+2020-2021,12,arunachal pradesh,236,lower subansiri,97,0,0,0
+2020-2021,12,arunachal pradesh,231,east kameng,6,0,0,0
+2020-2021,12,arunachal pradesh,230,dibang valley,2,0,0,0
+2020-2021,12,arunachal pradesh,243,west siang,2,0,0,0
+2020-2021,12,arunachal pradesh,242,west kameng,20,0,0,0
+2020-2021,12,arunachal pradesh,229,changlang,33,0,0,0
+2020-2021,12,arunachal pradesh,235,lower dibang valley,5,0,0,0
+2020-2021,12,arunachal pradesh,234,lohit,1,0,0,0
+2020-2021,12,arunachal pradesh,241,upper subansiri,116,0,0,0
+2020-2021,12,arunachal pradesh,239,tirap,63,0,0,0
+2020-2021,12,arunachal pradesh,233,kurung kumey,4,0,0,0
+2020-2021,12,arunachal pradesh,718,kamle,27,0,0,0
+2020-2021,12,arunachal pradesh,679,siang,6,0,0,0
+2020-2021,12,arunachal pradesh,666,longding,17,0,0,0
+2020-2021,2,himachal pradesh,18,kangra,807,0,0,752
+2020-2021,2,himachal pradesh,24,sirmaur,257,57,57,229
+2020-2021,2,himachal pradesh,16,chamba,294,0,0,283
+2020-2021,2,himachal pradesh,21,lahul and spiti,45,0,0,41
+2020-2021,2,himachal pradesh,17,hamirpur,248,0,0,237
+2020-2021,2,himachal pradesh,26,una,243,0,0,231
+2020-2021,2,himachal pradesh,19,kinnaur,73,0,0,65
+2020-2021,2,himachal pradesh,25,solan,240,0,0,213
+2020-2021,2,himachal pradesh,20,kullu,235,0,0,207
+2020-2021,2,himachal pradesh,23,shimla,412,0,0,363
+2020-2021,2,himachal pradesh,22,mandi,558,0,0,481
+2020-2021,2,himachal pradesh,15,bilaspur,176,0,0,151
+2020-2021,9,uttar pradesh,118,agra,686,19073,16437,686
+2020-2021,9,uttar pradesh,119,aligarh,881,18047,16102,881
+2020-2021,9,uttar pradesh,120,prayagraj,1548,18049,15606,1537
+2020-2021,9,uttar pradesh,121,ambedkar nagar,922,21675,19466,919
+2020-2021,9,uttar pradesh,122,auraiya,477,5747,5023,477
+2020-2021,9,uttar pradesh,123,azamgarh,1859,35550,31260,1856
+2020-2021,9,uttar pradesh,124,baghpat,245,5332,4896,244
+2020-2021,9,uttar pradesh,125,bahraich,1053,28513,23615,1044
+2020-2021,9,uttar pradesh,126,ballia,945,23000,20199,940
+2020-2021,9,uttar pradesh,127,balrampur,801,10629,9562,799
+2020-2021,9,uttar pradesh,128,banda,469,5493,5092,469
+2020-2021,9,uttar pradesh,129,barabanki,1166,19872,17854,1164
+2020-2021,9,uttar pradesh,130,bareilly,1193,34490,31467,1193
+2020-2021,9,uttar pradesh,131,basti,1185,14790,11832,1185
+2020-2021,9,uttar pradesh,132,bijnor,1128,11614,10098,1128
+2020-2021,9,uttar pradesh,133,budaun,1037,24950,22440,1037
+2020-2021,9,uttar pradesh,134,bulandshahr,951,9775,8038,951
+2020-2021,9,uttar pradesh,135,chandauli,734,6913,5793,734
+2020-2021,9,uttar pradesh,136,chitrakoot,335,3174,2816,334
+2020-2021,9,uttar pradesh,137,deoria,1189,10189,9047,1185
+2020-2021,9,uttar pradesh,138,etah,576,14072,11271,575
+2020-2021,9,uttar pradesh,139,etawah,470,6700,6050,470
+2020-2021,9,uttar pradesh,140,ayodhya,813,19388,16329,807
+2020-2021,9,uttar pradesh,141,farrukhabad,598,8461,7204,595
+2020-2021,9,uttar pradesh,142,fatehpur,837,14627,13055,833
+2020-2021,9,uttar pradesh,143,firozabad,567,6414,5425,564
+2020-2021,9,uttar pradesh,144,gautam buddha nagar,88,1296,1136,88
+2020-2021,9,uttar pradesh,145,ghaziabad,161,2328,2030,161
+2020-2021,9,uttar pradesh,146,ghazipur,1237,12116,10313,1236
+2020-2021,9,uttar pradesh,147,gonda,1214,15652,13920,1162
+2020-2021,9,uttar pradesh,148,gorakhpur,1311,21184,18271,1294
+2020-2021,9,uttar pradesh,149,hamirpur,330,5348,4769,330
+2020-2021,9,uttar pradesh,150,hardoi,1306,37561,34262,1305
+2020-2021,9,uttar pradesh,151,jalaun,574,4604,4243,574
+2020-2021,9,uttar pradesh,152,jaunpur,1748,29226,24124,1737
+2020-2021,9,uttar pradesh,153,jhansi,496,7689,6376,496
+2020-2021,9,uttar pradesh,154,amroha,601,15014,13666,601
+2020-2021,9,uttar pradesh,155,kannauj,502,7798,6731,502
+2020-2021,9,uttar pradesh,156,kanpur dehat,627,10788,9251,617
+2020-2021,9,uttar pradesh,157,kanpur nagar,590,13225,12196,590
+2020-2021,9,uttar pradesh,158,kaushambi,454,14039,12945,450
+2020-2021,9,uttar pradesh,159,kheri,1166,46486,43114,1163
+2020-2021,9,uttar pradesh,160,kushi nagar,1007,12125,10631,1002
+2020-2021,9,uttar pradesh,161,lalitpur,415,5439,4595,415
+2020-2021,9,uttar pradesh,162,lucknow,503,8575,7706,497
+2020-2021,9,uttar pradesh,163,hathras,467,7553,6560,464
+2020-2021,9,uttar pradesh,164,maharajganj,896,18069,16422,882
+2020-2021,9,uttar pradesh,165,mahoba,273,3787,3351,273
+2020-2021,9,uttar pradesh,166,mainpuri,549,9468,8066,548
+2020-2021,9,uttar pradesh,167,mathura,504,4100,3808,504
+2020-2021,9,uttar pradesh,168,mau,670,5323,4518,669
+2020-2021,9,uttar pradesh,169,meerut,479,6958,6379,479
+2020-2021,9,uttar pradesh,170,mirzapur,809,15053,13586,809
+2020-2021,9,uttar pradesh,171,moradabad,646,13588,12473,643
+2020-2021,9,uttar pradesh,172,muzaffarnagar,498,16135,15240,498
+2020-2021,9,uttar pradesh,173,pilibhit,720,18751,15800,718
+2020-2021,9,uttar pradesh,174,pratapgarh,1203,12094,10562,1206
+2020-2021,9,uttar pradesh,175,rae bareli,989,28806,26590,988
+2020-2021,9,uttar pradesh,176,rampur,681,11088,9758,682
+2020-2021,9,uttar pradesh,177,saharanpur,884,13553,12088,883
+2020-2021,9,uttar pradesh,178,sant kabeer nagar,761,4958,3940,754
+2020-2021,9,uttar pradesh,179,bhadohi,562,10272,8752,558
+2020-2021,9,uttar pradesh,180,shahjahanpur,1073,18690,16980,1069
+2020-2021,9,uttar pradesh,181,shravasti,397,7151,6315,396
+2020-2021,9,uttar pradesh,182,siddharth nagar,1157,17671,15749,1135
+2020-2021,9,uttar pradesh,183,sitapur,1601,21827,19340,1599
+2020-2021,9,uttar pradesh,184,sonbhadra,629,8040,6557,629
+2020-2021,9,uttar pradesh,185,sultanpur,983,12956,11849,980
+2020-2021,9,uttar pradesh,186,unnao,1043,13395,11280,1043
+2020-2021,9,uttar pradesh,187,varanasi,706,9725,8587,694
+2020-2021,9,uttar pradesh,633,kasganj,423,10207,8791,423
+2020-2021,9,uttar pradesh,640,amethi,682,13755,12285,682
+2020-2021,9,uttar pradesh,659,sambhal,670,12205,10674,668
+2020-2021,9,uttar pradesh,660,shamli,230,5439,4674,230
+2020-2021,9,uttar pradesh,661,hapur,273,3933,3191,273
+2020-2021,28,andhra pradesh,502,anantapur,0,0,0,633
+2020-2021,28,andhra pradesh,503,chittoor,1,0,0,1137
+2020-2021,28,andhra pradesh,504,y.s.r.,0,0,0,705
+2020-2021,28,andhra pradesh,505,east godavari,0,0,0,1063
+2020-2021,28,andhra pradesh,506,guntur,4,0,0,776
+2020-2021,28,andhra pradesh,510,krishna,0,0,0,756
+2020-2021,28,andhra pradesh,511,kurnool,0,0,0,544
+2020-2021,28,andhra pradesh,515,spsr nellore,0,0,0,864
+2020-2021,28,andhra pradesh,517,prakasam,0,0,0,977
+2020-2021,28,andhra pradesh,519,srikakulam,0,0,0,905
+2020-2021,28,andhra pradesh,520,visakhapatanam,0,0,0,856
+2020-2021,28,andhra pradesh,521,vizianagaram,0,0,0,895
+2020-2021,28,andhra pradesh,523,west godavari,3,0,0,637

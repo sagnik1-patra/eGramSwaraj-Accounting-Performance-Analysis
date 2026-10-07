@@ -1,0 +1,7 @@
+Model,Accuracy_Percent,Precision_Percent,Recall_Percent,F1_Score_Percent,AIS_Selected_Features,AIS_CV_Fitness_Percent
+AIS KNN,97.94520547945206,97.95749252776017,97.94520547945206,97.94456302155089,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627
+AIS Extra Trees,96.57534246575342,96.62268911779674,96.57534246575342,96.55049668778045,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627
+AIS Decision Tree,96.57534246575342,96.5601746382027,96.57534246575342,96.56084852719285,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627
+AIS Random Forest,95.8904109589041,95.96196953731199,95.8904109589041,95.84191031981584,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627
+AIS Logistic Regression,95.8904109589041,95.88566814456574,95.8904109589041,95.86745590098647,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627
+AIS Gradient Boosting,94.52054794520548,94.55618354248492,94.52054794520548,94.45569770493067,"onboard_egspi_normalized, pv_approved_normalized, year_closed_normalized",96.72560226483627

@@ -1,0 +1,110 @@
+{
+    "project_name": "AI-Based eGramSwaraj Accounting Performance Analysis",
+    "optimization_method": "Artificial Immune System - Clonal Selection",
+    "dataset": {
+        "path": "C:\\Users\\sagni\\Downloads\\eGramSwaraj Accounting Performance Analysis\\egramswaraj_accounting_20_21.csv",
+        "rows": 727,
+        "training_records": 581,
+        "testing_records": 146
+    },
+    "ais_parameters": {
+        "population_size": 20,
+        "generations": 25,
+        "clone_factor": 5,
+        "elite_size": 5,
+        "mutation_rate": 0.2
+    },
+    "feature_selection": {
+        "all_features": [
+            "onboard_egspi_normalized",
+            "pv_initiated_normalized",
+            "pv_approved_normalized",
+            "year_closed_normalized"
+        ],
+        "selected_features": [
+            "onboard_egspi_normalized",
+            "pv_approved_normalized",
+            "year_closed_normalized"
+        ],
+        "number_selected": 3,
+        "best_antibody": [
+            1,
+            0,
+            1,
+            1
+        ]
+    },
+    "performance": {
+        "ais_cv_accuracy": 0.9672560226483627,
+        "ais_cv_accuracy_percent": 96.73,
+        "best_model": "AIS KNN",
+        "test_accuracy": 0.9794520547945206,
+        "test_accuracy_percent": 97.95
+    },
+    "classification_report": {
+        "Low": {
+            "precision": 1.0,
+            "recall": 1.0,
+            "f1-score": 1.0,
+            "support": 48.0
+        },
+        "Medium": {
+            "precision": 0.9787234042553191,
+            "recall": 0.9583333333333334,
+            "f1-score": 0.968421052631579,
+            "support": 48.0
+        },
+        "High": {
+            "precision": 0.9607843137254902,
+            "recall": 0.98,
+            "f1-score": 0.9702970297029703,
+            "support": 50.0
+        },
+        "accuracy": 0.9794520547945206,
+        "macro avg": {
+            "precision": 0.9798359059936032,
+            "recall": 0.9794444444444445,
+            "f1-score": 0.9795726941115164,
+            "support": 146.0
+        },
+        "weighted avg": {
+            "precision": 0.9795749252776016,
+            "recall": 0.9794520547945206,
+            "f1-score": 0.9794456302155089,
+            "support": 146.0
+        }
+    },
+    "confusion_matrix": [
+        [
+            48,
+            0,
+            0
+        ],
+        [
+            0,
+            46,
+            2
+        ],
+        [
+            0,
+            1,
+            49
+        ]
+    ],
+    "generated_files": [
+        "ais_accuracy_graph.png",
+        "ais_heatmap.png",
+        "ais_comparison_graph.png",
+        "ais_result.csv",
+        "ais_result_graph.png",
+        "ais_prediction.csv",
+        "ais_prediction_graph.png",
+        "ais_feature_selection_graph.png",
+        "ais_fitness_graph.png",
+        "ais_class_distribution_graph.png",
+        "ais_model.pkl",
+        "ais_model.h5",
+        "ais_config.yaml",
+        "ais_metadata.json"
+    ]
+}
